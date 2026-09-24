@@ -5,7 +5,7 @@
 <h1 align="center">Torsten Fink</h1>
 
 <p align="center">
-  Reisefotograf aus Fürth. Ich schreibe Reisegeschichten und baue die Website dafür selbst, in reinem HTML und CSS auf GitHub Pages.
+  Geschichtenerzähler und Reisefotograf aus Fürth. Ich schreibe Reisegeschichten und baue die Website dafür selbst, in reinem HTML und CSS auf GitHub Pages.
 </p>
 
 <p align="center">
