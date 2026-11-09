@@ -62,7 +62,7 @@ Die Reihenfolge folgt dem Pager der Website. Geografisch ergibt sie keinen Sinn.
 
 **Bildpipeline.** Python mit Pillow. Aus jedem Foto werden JPG und WebP in drei Größen, lange Kante höchstens 1600 px, jede Datei unter 600 KB. Der Browser lädt per srcset nur die Größe, die er braucht.
 
-**Golf-Handicap-Rechner.** Entstanden, weil ich es nach der Runde wissen wollte. [Zum Rechner](https://torsten-fink.de/tools/handicap-rechner.html)
+**Golf-Handicap-Rechner.** Entstanden, weil ich es nach der Runde wissen wollte. [Zum Rechner](https://torsten-fink.de/tools/handicap-rechner.html) · [English version](https://torsten-fink.de/tools/handicap-calculator.html)
 
 **Stableford-Rechner.** Punkte pro Loch mit Vorgabe. [Zum Rechner](https://torsten-fink.de/tools/stableford-rechner.html)
 
