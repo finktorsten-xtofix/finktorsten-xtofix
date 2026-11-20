@@ -13,6 +13,10 @@
   &nbsp;/&nbsp;
   <a href="https://www.instagram.com/torstenfinkbayern/">Instagram @torstenfinkbayern</a>
   &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/torsten-fink-20220860">LinkedIn</a>
+  &nbsp;/&nbsp;
+  <a href="https://x.com/finktorsten">X</a>
+  &nbsp;/&nbsp;
   <a href="https://github.com/finktorsten-xtofix/torsten--fink.github.io">Website-Repository</a>
   &nbsp;/&nbsp;
   <a href="https://finktorsten-xtofix.github.io/">Profilseite</a>
@@ -66,7 +70,7 @@ Die Reihenfolge folgt dem Pager der Website. Geografisch ergibt sie keinen Sinn.
 
 **Stableford-Rechner.** Punkte pro Loch mit Vorgabe. [Zum Rechner](https://torsten-fink.de/tools/stableford-rechner.html)
 
-**Golf-Physik: Flugbahn-Rechner mit Smash Factor und Spin-Loft.** Flugbahn des Drivers, geeicht an TrackMan-Daten. [Zum Rechner](https://torsten-fink.de/tools/golf-physik.html)
+**Golf-Physik.** Flugbahn des Balls beim Drive, mit Smash Factor und Spin-Loft, geeicht an TrackMan-Daten. [Zum Rechner](https://torsten-fink.de/tools/golf-physik.html)
 
 **Jetlag-Rechner.** Zeitverschiebung und Anpassungsplan für Fernreisen. [Zum Rechner](https://torsten-fink.de/tools/jetlag-rechner.html)
 
@@ -74,7 +78,7 @@ Die Reihenfolge folgt dem Pager der Website. Geografisch ergibt sie keinen Sinn.
 
 ## Nebenbei
 
-Beruflich im Qualitätsmanagement und in der Informationssicherheit unterwegs. Tagsüber ISO 27001, abends ISO 100.
+Beruflich bin ich im Qualitätsmanagement und in der Informationssicherheit unterwegs. Tagsüber ISO 9001 und 27001, abends ISO 100.
 
 <br>
 
