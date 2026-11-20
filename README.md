@@ -66,6 +66,8 @@ Die Reihenfolge folgt dem Pager der Website. Geografisch ergibt sie keinen Sinn.
 
 **Stableford-Rechner.** Punkte pro Loch mit Vorgabe. [Zum Rechner](https://torsten-fink.de/tools/stableford-rechner.html)
 
+**Golf-Physik: Flugbahn-Rechner mit Smash Factor und Spin-Loft.** Flugbahn des Drivers, geeicht an TrackMan-Daten. [Zum Rechner](https://torsten-fink.de/tools/golf-physik.html)
+
 **Jetlag-Rechner.** Zeitverschiebung und Anpassungsplan für Fernreisen. [Zum Rechner](https://torsten-fink.de/tools/jetlag-rechner.html)
 
 <br>
