@@ -72,6 +72,8 @@ Die Reihenfolge folgt dem Pager der Website. Geografisch ergibt sie keinen Sinn.
 
 **Golf-Physik.** Flugbahn des Balls beim Drive, mit Smash Factor und Spin-Loft, geeicht an TrackMan-Daten. [Zum Rechner](https://torsten-fink.de/tools/golf-physik.html)
 
+**Mein Bag.** Schlägerdistanzen eintragen und Lücken im Bag finden. [Zum Rechner](https://torsten-fink.de/tools/schlaegerdistanzen.html)
+
 **Jetlag-Rechner.** Zeitverschiebung und Anpassungsplan für Fernreisen. [Zum Rechner](https://torsten-fink.de/tools/jetlag-rechner.html)
 
 <br>
